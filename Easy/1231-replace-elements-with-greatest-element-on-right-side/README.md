@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy  
 **Language:** Java  
-**Runtime:** 917 ms  
-**Memory:** 49.7 MB  
+**Runtime:** 3 ms  
+**Memory:** 48.8 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 
 ## Problem Description
