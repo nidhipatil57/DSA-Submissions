@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** Java  
-**Runtime:** 4 ms  
-**Memory:** 43.5 MB  
+**Runtime:** 0 ms  
+**Memory:** 43.4 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/stone-game/)
 
 ## Problem Description
