@@ -12,17 +12,16 @@ class Solution {
                 a.push(s.charAt(i));
             }
         }
-
-    for(int i=0; i<t.length(); i++){
-        if(t.charAt(i)=='#'){
-            if(!b.empty()){
-                b.pop();
+        for(int i=0; i<t.length(); i++){
+            if(t.charAt(i)=='#'){
+                if(!b.empty()){
+                    b.pop();
             }
         }
-        else{
-            b.push(t.charAt(i));
+            else{
+                b.push(t.charAt(i));
+            }
         }
-    }
-    return a.equals(b);
+        return a.equals(b);
     }
 }
