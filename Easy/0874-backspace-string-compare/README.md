@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy  
 **Language:** Java  
-**Runtime:** 2 ms  
-**Memory:** 43.4 MB  
+**Runtime:** 3 ms  
+**Memory:** 43 MB  
 **Link:** [Problem Link](https://leetcode.com/problems/backspace-string-compare/)
 
 ## Problem Description
